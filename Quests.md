@@ -45,12 +45,22 @@ $ Science
 *Q. Description* 
 *Q. Requirments* {Read a Book VII}; Read 36 books.
 
+
+
+
 *Q. Name* Read a Book IX
+
 *Q. Description* 
+
 *Q. Requirments* {Read a Book VIII}; Read 45 books.
 
+
+
+
 *Q. Name* Read a Book X
+
 *Q. Description* Not too sore, are you?
+
 *Q. Requirments* {Read a Book IX}; Read 55 books.
 
 
