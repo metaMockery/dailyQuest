@@ -13,10 +13,12 @@ $ Science
 
 <br>
 
-<li>
-* Q. Name: Read a Book I <br> 
-  Q. Description: First time, eh? <br> 
-  Q. Requirments: Read 1 book. <br>
+<details>
+<summary> <b>Read a Book</b> </summary>
+
+ Q. Name: Read a Book I <br> 
+ Q. Description: First time, eh? <br> 
+ Q. Requirments: Read 1 book. <br>
 
 <br>
 
@@ -72,4 +74,5 @@ $ Science
 *Q. Description* Not too sore, are you? <br>
 *Q. Requirments* {Read a Book IX}; Read 55 books. <br>
 
-<li>
+</details>
+
