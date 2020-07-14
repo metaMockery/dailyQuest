@@ -13,29 +13,39 @@ $ Science
 
 
 
-*Q. Name* Read a Book I
-*Q. Description* First time, eh?
-*Q. Requirments* Read one book.
+*Q. Name* Read a Book I <br>
+*Q. Description* First time, eh? <br>
+*Q. Requirments* Read one book. <br>
 
-*Q. Name* Read a Book II
-*Q. Description* Three books. It's not too hard, is it?
-*Q. Requirments* {Read a Book I}; Read 3 books.
+<br><br>
 
-*Q. Name* Read a Book III
-*Q. Description* Oh, already 6? They grow so fast!
-*Q. Requirments* {Read a Book II}; Read 6 books.
+*Q. Name* Read a Book II <br>
+*Q. Description* Three books. It's not too hard, is it? <br>
+*Q. Requirments* {Read a Book I}; Read 3 books. <br>
 
-*Q. Name* Read a Book IV
-*Q. Description* 
-*Q. Requirments* {Read a Book III}; Read 10 books.
+<br><br>
 
-*Q. Name* Read a Book V
-*Q. Description* 
-*Q. Requirments* {Read a Book IV}; Read 15 books.
+*Q. Name* Read a Book III <br>
+*Q. Description* Oh, already 6? They grow so fast! <br>
+*Q. Requirments* {Read a Book II}; Read 6 books. <br>
 
-*Q. Name* Read a Book VI
-*Q. Description* 
-*Q. Requirments* {Read a Book V}; Read 21 books.
+<br><br>
+
+*Q. Name* Read a Book IV <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book III}; Read 10 books. <br>
+
+<br><br>
+
+*Q. Name* Read a Book V <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book IV}; Read 15 books. <br>
+
+<br><br>
+
+*Q. Name* Read a Book VI <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book V}; Read 21 books. <br>
 
 <br><br>
 
