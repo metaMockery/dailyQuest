@@ -37,28 +37,26 @@ $ Science
 *Q. Description* 
 *Q. Requirments* {Read a Book V}; Read 21 books.
 
-*Q. Name* Read a Book VII
-*Q. Description* 
-*Q. Requirments* {Read a Book VI}; Read 28 books.
+<br><br>
 
-*Q. Name* Read a Book VIII
-*Q. Description* 
-*Q. Requirments* {Read a Book VII}; Read 36 books.
+*Q. Name* Read a Book VII <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book VI}; Read 28 books. <br>
 
+<br><br>
 
+*Q. Name* Read a Book VIII <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book VII}; Read 36 books. <br>
 
+<br><br>
 
-*Q. Name* Read a Book IX
+*Q. Name* Read a Book IX <br>
+*Q. Description*  <br>
+*Q. Requirments* {Read a Book VIII}; Read 45 books. <br>
 
-*Q. Description* 
+<br><br>
 
-*Q. Requirments* {Read a Book VIII}; Read 45 books.
-
-
-<br>
-
-*Q. Name* Read a Book X
-
-*Q. Description* Not too sore, are you?
-
-*Q. Requirments* {Read a Book IX}; Read 55 books.
+*Q. Name* Read a Book X <br>
+*Q. Description* Not too sore, are you? <br>
+*Q. Requirments* {Read a Book IX}; Read 55 books. <br>
