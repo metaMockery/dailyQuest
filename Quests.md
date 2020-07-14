@@ -15,12 +15,13 @@ $ Science
 
 *Q. Name* Read a Book I <br>
 *Q. Description* First time, eh? <br>
-*Q. Requirments* Read one book. <br>
+*Q. Requirments* Read 1 book. <br>
 
 <br>
 
 *Q. Name* Read a Book II <br>
 *Q. Description* Three books. It's not too hard, is it? <br>
+*Q. Requirments* {Read a Book II}; Read 3 books. <br>
 
 <br>
 
