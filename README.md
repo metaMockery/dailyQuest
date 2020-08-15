@@ -1,4 +1,4 @@
-# Project Escape
+# Daily Quests!
  Work in process
 
 This project will allow you to do Quests IRL (ideally)
